@@ -3,8 +3,8 @@
 #include <string.h>
 #include <time.h>
 /*
- NOME NOME NOME
- NUMERO USP
+Fernanda Pereira Guidotti
+ 7003361
  TRABALHO EXTRA DE SISTEMAS OPERACIONAIS
  MANIPULAÇÃO DE ARQUIVOS
  */
